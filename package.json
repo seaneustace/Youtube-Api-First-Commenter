@@ -1,0 +1,18 @@
+{
+  "name": "yt_live_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "googleapis": "^105.0.0",
+    "open": "^8.4.0",
+    "prompt-sync": "^4.2.0",
+    "server-destroy": "^1.0.1"
+  }
+}
