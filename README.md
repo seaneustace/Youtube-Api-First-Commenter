@@ -9,7 +9,7 @@ sudo apt install nodejs
 sudo apt install npm
   ```
 
-# Obtain Oauth Credentials https://console.cloud.google.com/apis/dashboard
+## Obtain Oauth Credentials https://console.cloud.google.com/apis/dashboard
 
 Download and import client_secret.json
 
